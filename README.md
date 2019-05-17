@@ -1,7 +1,7 @@
 # Double-Submit-Token-Pattern
 
 # Cross-Site-Request-Forgery
-Preventing Cross-Site Request Forgery (CSRF) using synchronizer token pattern and double submit cookie pattern.
+Preventing Cross-Site Request Forgery (CSRF) using double submit cookie pattern.
 
 ## IT17127806
 
